@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of deiSurveyShiny is to …
+The goal of deiSurveyShiny is to analyze the tech climate survey from the DEI tech collective and build an interactive online report.
 
 ## Installation
 
